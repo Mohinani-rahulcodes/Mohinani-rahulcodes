@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mohinani-rahulcodes
+- 👋 Hi, I’m Rahul
 - 👀 I’m interested in making world class level webs sites and apps project.
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning JavaScript, React
 - 💞️ I’m looking for a collaboration with the developer who have very high vision for their future goals :) 
 - 📫 How to reach me : rahulmohinani7@gmail.com
 - 😄 You can call me roul 
