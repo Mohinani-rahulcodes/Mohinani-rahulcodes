@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahul
-- 👀 I’m interested in making world class level webssites and apps project.
+- 👀 I’m interested in making world class level websites and apps project.
 - 🌱 I’m currently learning JavaScript, React
 - 💞️ I’m looking for a collaboration with the developer who have very high vision for their future goals :) 
 - 📫 How to reach me : rahulmohinani7@gmail.com
